@@ -1,0 +1,10 @@
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\bin\Debug\formulario.Aluno2.0.exe.config
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\bin\Debug\formulario.Aluno2.0.exe
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\bin\Debug\formulario.Aluno2.0.pdb
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2.0.csproj.AssemblyReference.cache
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2._0.Form1.resources
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2._0.Properties.Resources.resources
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2.0.csproj.GenerateResource.cache
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2.0.csproj.CoreCompileInputs.cache
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2.0.exe
+C:\Users\victor.hlsilva8\source\repos\formulario.Aluno2.0\formulario.Aluno2.0\obj\Debug\formulario.Aluno2.0.pdb
